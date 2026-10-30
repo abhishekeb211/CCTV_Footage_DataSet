@@ -7,7 +7,6 @@ This page summarizes the scientific materials stored beside the footage and the 
 | File | Role |
 |------|------|
 | [`Data_Traffic_Dataset_Pune.docx`](../Data_Traffic_Dataset_Pune.docx) | Data Descriptor draft: *Direction-Resolved Heterogeneous Traffic Count Dataset for Pune Traffic Junctions* |
-| [`Scientific Data Journal -Response Document Major Revisions.docx`](../Scientific%20Data%20Journal%20-Response%20Document%20Major%20Revisions.docx) | Incomplete revision-response letter (14 Aug 2026); partly references FAAR / ambulance routing — **not** authoritative for the footage archive |
 
 ## Data Descriptor — summary
 
